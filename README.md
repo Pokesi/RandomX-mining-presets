@@ -10,6 +10,8 @@ A bunch of .cmd files to mine a bunch of different cryptocurrencies using XMRig/
  - TRX: `TYgkFXn3Yb3egs8cw7GwZubaAR2cuXR4y8`
  - ETH: `0xc42AAfeC6B9A993Bdf832a76098C60A8C9c386d4`
  - Mine without changing the adress to help out as well :)
+# How does unMineable.com work?
+So, you mine monero, but you are rewarded with the currency you want. I really like the concept of it.
 # Request a currency!
 Email `totesnotspam700@gmail.com` with the following format: `
 Currency name: Bitcoin
