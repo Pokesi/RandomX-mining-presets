@@ -1,4 +1,4 @@
-#========================================================not for use
+import sys, string, os
 
 def separator():
   printf("=========================================")
@@ -22,3 +22,4 @@ currency = input("")
 for file in os.listdir("/Users/darren/Desktop/test"):
   if file.startswith("00 " + currency):
        f = file
+os.system(f)
