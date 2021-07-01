@@ -1,5 +1,6 @@
 # RandomX mining presets
 A bunch of .cmd files to mine a bunch of different cryptocurrencies using XMRig/any RandomX miner
+[![CodeFactor](https://www.codefactor.io/repository/github/pokesi/randomx-mining-presets/badge/main)](https://www.codefactor.io/repository/github/pokesi/randomx-mining-presets/overview/main)
 # Usage
 ### Before
  - Extract these to your XMRig folder
